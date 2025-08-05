@@ -13,19 +13,20 @@ I build robust and maintainable web applications using modern technologies like 
 - 🏥 **Clinic Management System** – Admin panel for doctors to manage appointments, diagnoses, and prescriptions.
 - ✈️ **Airport ERP** – Internal system for managing staff, flight schedules, and role-based access.
 - 🛋️ **Home Decor E-commerce** – Product catalog, shopping cart, and order placement with secure authentication.
+- 🎓 **Education ERP System** – Role-based management system for admins, teachers, and students, featuring course scheduling, attendance, and student groups (NestJS, GraphQL, PostgreSQL).
 
 ---
 
 ## 🛠 Tech Stack
 
 **Backend:**
-- ExpressJS, NestJS, JavaScript, TypeScript, TypeORM, Sequalize, MySQL, MongoDB, PostgreSQL, Swagger, JWT
+- ExpressJS, NestJS, JavaScript, TypeScript, TypeORM, Sequelize, PostgreSQL, MySQL, MongoDB, Swagger, JWT
 
 **Frontend:**
-- React, TypeScript, Next, Ant Design, TailwindCSS, Axios, HTML, CSS, SCSS
+- React, Next.js, TypeScript, Ant Design, TailwindCSS, Axios, HTML, CSS, SCSS
 
 **Tools:**
-- Git & GitHub, Postman, Docker (basic), Vercel
+- Git & GitHub, Postman, Docker (basic), Vercel, Railway
 
 **Methodologies:**
 - REST API, MVC, Role-Based Access Control (RBAC), Modular Architecture
@@ -42,7 +43,7 @@ I build robust and maintainable web applications using modern technologies like 
 
 ## 📬 Contact
 
-- Telegram: (https://t.me/DiyoraJS)
+- Telegram: [@DiyoraJS](https://t.me/DiyoraJS)
 - Email: ubaydullayevadiyora06@gmail.com
 - Portfolio: Coming soon...
 
